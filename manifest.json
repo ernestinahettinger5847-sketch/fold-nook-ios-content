@@ -1,0 +1,35 @@
+{
+  "dataset": "Fold Nook iOS",
+  "datasetVersion": "1.0.0",
+  "appVersion": "1.0",
+  "language": "en",
+  "originalContent": true,
+  "lessons": 224,
+  "lessonsByMode": {
+    "craft": 37,
+    "kirigami": 49,
+    "modular": 46,
+    "origami": 59,
+    "strips": 33
+  },
+  "steps": 989,
+  "videoFiles": 225,
+  "files": 1482,
+  "bytes": 88155121,
+  "bytesByPath": {
+    "Brand/craft.webp": 3386,
+    "Brand/fold.wav": 16360,
+    "Brand/modular.webp": 5924,
+    "Brand/origami.webp": 5066,
+    "Brand/reward.wav": 32236,
+    "Brand/snowflake.webp": 13952,
+    "Brand/strip.webp": 2362,
+    "Brand/studio.webp": 7936,
+    "Content/background.wav": 663308,
+    "Content/catalog.json": 363772,
+    "Content/lessons": 22231972,
+    "Content/paper": 1738730,
+    "Content/video": 63070117
+  },
+  "checksums": "SHA256SUMS"
+}
